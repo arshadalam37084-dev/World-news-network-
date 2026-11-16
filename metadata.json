@@ -1,0 +1,6 @@
+{
+  "name": "WORLD NEWS NETWORK",
+  "description": "WORLD NEWS NETWORK — Real News... Real Time... Professional digital newspaper portal with E-Paper editions, video bulletins, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
